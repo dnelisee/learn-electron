@@ -1,0 +1,26 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "my first electron app. I am reading the official tutorial.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnelisee/learn-electron.git"
+  },
+  "author": "Elisee DJAHAPPI NZEMBIA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnelisee/learn-electron/issues"
+  },
+  "homepage": "https://github.com/dnelisee/learn-electron#readme",
+  "dependencies": {
+    "electron": "^36.4.0"
+  },
+  "devDependencies": {
+    "@types/electron": "^1.4.38"
+  }
+}
